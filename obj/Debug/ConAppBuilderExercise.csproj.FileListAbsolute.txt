@@ -1,0 +1,7 @@
+C:\Users\vamsh\Desktop\Training Exercises\Mohd Salman\1-2-2024\ConAppBuilderEx\ConAppBuilderExercise\bin\Debug\ConAppBuilderExercise.exe.config
+C:\Users\vamsh\Desktop\Training Exercises\Mohd Salman\1-2-2024\ConAppBuilderEx\ConAppBuilderExercise\bin\Debug\ConAppBuilderExercise.exe
+C:\Users\vamsh\Desktop\Training Exercises\Mohd Salman\1-2-2024\ConAppBuilderEx\ConAppBuilderExercise\bin\Debug\ConAppBuilderExercise.pdb
+C:\Users\vamsh\Desktop\Training Exercises\Mohd Salman\1-2-2024\ConAppBuilderEx\ConAppBuilderExercise\obj\Debug\ConAppBuilderExercise.csproj.AssemblyReference.cache
+C:\Users\vamsh\Desktop\Training Exercises\Mohd Salman\1-2-2024\ConAppBuilderEx\ConAppBuilderExercise\obj\Debug\ConAppBuilderExercise.csproj.CoreCompileInputs.cache
+C:\Users\vamsh\Desktop\Training Exercises\Mohd Salman\1-2-2024\ConAppBuilderEx\ConAppBuilderExercise\obj\Debug\ConAppBuilderExercise.exe
+C:\Users\vamsh\Desktop\Training Exercises\Mohd Salman\1-2-2024\ConAppBuilderEx\ConAppBuilderExercise\obj\Debug\ConAppBuilderExercise.pdb
